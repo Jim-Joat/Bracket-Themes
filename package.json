@@ -1,0 +1,15 @@
+{
+    "name": "Dark-HiContrast ",
+    "title": "Dark-HiContrast ",
+    "description": "Better contrast for vision impaired users without being glaring black and white.",
+    "homepage": "https://github.com/jim-joat/Bracket-Themes",
+    "version": "1.0.0",
+    
+    "license": "MIT",
+    "theme": {
+        "file": "Dark-HiContrast.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
